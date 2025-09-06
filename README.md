@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 <!-- Banner / Header -->
 <!-- Banner / Header -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohamedAmir/banner-data-analysis/main/data-analysis-banner.jpg" alt="Data Analysis Banner" width="800"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Amir</h1>
 <h3 align="center">📊 Data Analyst | Python | SQL | Excel | Power BI</h3>
